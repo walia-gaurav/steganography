@@ -1,0 +1,32 @@
+**********************************************************
+**********************************************************
+
+A Project Report On 
+
+
+**********************************************************
+DATA CONCEALMENT USING LSB SUBSTITUTION TECHNIQUES
+**********************************************************
+
+Submitted to Amity University Uttar Pradesh
+
+In partial fulfilment of the requirements for the award
+of the degree of Bachelor of Technology in 
+Computer Science & Engineering
+by 
+
+**********************************************************
+Gaurav Walia (A2305208370) & Himalaya Monga (A2305208372)
+**********************************************************
+
+under the guidance of
+
+Mr. Sanjeev Tomar
+
+DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING
+AMITY SCHOOL OF ENGINEERING AND TECHNOLOGY 
+AMITY UNIVERSITY UTTAR PRADESH NOIDA (U.P.) 
+April 2012
+
+**********************************************************
+**********************************************************
